@@ -1,4 +1,7 @@
-# Wildfire Data Analysis
+---
+layout: post
+title: Wildfire Data Analysis
+---
 
 #### Imports
 
@@ -1107,7 +1110,7 @@ plt.show()
 
 
     
-![png](../images/output_34_0.png)
+![png](images/output_34_0.png)
     
 
 
@@ -1144,7 +1147,7 @@ plt.show()
 
 
     
-![png](../images/output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -1165,7 +1168,7 @@ plt.show()
 
 
     
-![png](../images/output_38_1.png)
+![png](images/output_38_1.png)
     
 
 
@@ -1537,7 +1540,7 @@ plt.show()
 
 
     
-![png](../images/output_58_0.png)
+![png](images/output_58_0.png)
     
 
 
@@ -1558,7 +1561,7 @@ plt.show()
 
 
     
-![png](../images/output_60_0.png)
+![png](images/output_60_0.png)
     
 
 
@@ -1591,7 +1594,7 @@ plt.show()
 
 
     
-![png](../images/output_62_0.png)
+![png](images/output_62_0.png)
     
 
 
@@ -1623,7 +1626,7 @@ plt.show()
 
 
     
-![png](../images/output_65_1.png)
+![png](images/output_65_1.png)
     
 
 
@@ -2076,8 +2079,7 @@ plt.show()
 
 
     
-![png](../images/output_72_1.png)
-    
+![png](images/output_72_1.png)
 
 
 ---
